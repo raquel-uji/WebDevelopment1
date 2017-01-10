@@ -1,0 +1,24 @@
+{
+  "name": "first_bootstrap",
+  "version": "1.0.0",
+  "description": "My first bootstrap project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raquel-uji/WebDevelopment1.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "javascript",
+    "master"
+  ],
+  "author": "Raquel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raquel-uji/WebDevelopment1/issues"
+  },
+  "homepage": "https://github.com/raquel-uji/WebDevelopment1#readme"
+}
